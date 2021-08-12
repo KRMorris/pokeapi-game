@@ -40,4 +40,5 @@ public class Card {
     public void setMoves(String moves) {
         this.moves = moves;
     }
+
 }
